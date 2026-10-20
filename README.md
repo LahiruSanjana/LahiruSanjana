@@ -32,4 +32,4 @@
 
 ### 📫 Connect with me:
 - **Email:** sanjanaf41@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/lahiru-fernando-3b6195286/
